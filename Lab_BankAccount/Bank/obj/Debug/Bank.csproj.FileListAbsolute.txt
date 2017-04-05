@@ -1,0 +1,6 @@
+C:\C#_bootcamp\Bank\Bank\bin\Debug\Bank.exe.config
+C:\C#_bootcamp\Bank\Bank\bin\Debug\Bank.exe
+C:\C#_bootcamp\Bank\Bank\bin\Debug\Bank.pdb
+C:\C#_bootcamp\Bank\Bank\obj\Debug\Bank.exe
+C:\C#_bootcamp\Bank\Bank\obj\Debug\Bank.pdb
+C:\C#_bootcamp\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache

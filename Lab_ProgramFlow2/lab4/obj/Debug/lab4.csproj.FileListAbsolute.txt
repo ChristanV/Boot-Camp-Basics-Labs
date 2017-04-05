@@ -1,0 +1,5 @@
+C:\C#_bootcamp\lab4\lab4\bin\Debug\lab4.exe.config
+C:\C#_bootcamp\lab4\lab4\bin\Debug\lab4.exe
+C:\C#_bootcamp\lab4\lab4\bin\Debug\lab4.pdb
+C:\C#_bootcamp\lab4\lab4\obj\Debug\lab4.exe
+C:\C#_bootcamp\lab4\lab4\obj\Debug\lab4.pdb

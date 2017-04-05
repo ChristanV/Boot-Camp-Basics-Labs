@@ -1,0 +1,6 @@
+C:\C#_bootcamp\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\C#_bootcamp\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\C#_bootcamp\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\C#_bootcamp\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\C#_bootcamp\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\C#_bootcamp\Lab1\Lab1\obj\Debug\Lab1.pdb
